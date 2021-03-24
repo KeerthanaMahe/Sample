@@ -16,6 +16,7 @@ public class CompanyInfo {
 		c.companyName();
 		c.companyId();
 		c.companyAddress();
+		System.out.println("Check1");
 	}
 
 }
